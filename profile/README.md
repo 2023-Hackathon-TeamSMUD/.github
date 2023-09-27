@@ -107,17 +107,228 @@
 
 ### Frontend
 ```bash
-
+├── package-lock.json
+├── package.json
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+├── src
+│   ├── App.js
+│   ├── api
+│   │   ├── postFashion.jsx
+│   │   └── postPair.jsx
+│   ├── assets
+│   │   ├── CameraPage
+│   │   │   ├── Aim.svg
+│   │   │   ├── Progress1.svg
+│   │   │   ├── Progress2.svg
+│   │   │   ├── Progress3.svg
+│   │   │   ├── Shot.svg
+│   │   │   ├── Storage.svg
+│   │   │   ├── heart.svg
+│   │   │   ├── oicon.jpeg
+│   │   │   └── xicon.jpeg
+│   │   ├── MainPage
+│   │   │   ├── ActiveMan.png
+│   │   │   ├── ActiveWoman.png
+│   │   │   ├── Back.svg
+│   │   │   ├── Black.png
+│   │   │   ├── Blue.png
+│   │   │   ├── Gray.png
+│   │   │   ├── Green.png
+│   │   │   ├── Man.png
+│   │   │   ├── Orange.png
+│   │   │   ├── Pants.png
+│   │   │   ├── Progress1.png
+│   │   │   ├── Progress2.png
+│   │   │   ├── Progress3.png
+│   │   │   ├── Purple.png
+│   │   │   ├── Red.png
+│   │   │   ├── Shoe.png
+│   │   │   ├── Top.png
+│   │   │   ├── White.png
+│   │   │   ├── Woman.png
+│   │   │   └── Yellow.png
+│   │   ├── StartPage
+│   │   │   ├── Logo.png
+│   │   │   └── Logo.svg
+│   │   ├── StoragePage
+│   │   │   ├── Delete.png
+│   │   │   └── null.svg
+│   │   └── common
+│   │       ├── Logo.png
+│   │       └── Logo.svg
+│   ├── component
+│   │   ├── container
+│   │   │   ├── CameraPage
+│   │   │   │   ├── CameraContainer.jsx
+│   │   │   │   ├── CameraPageContainer.jsx
+│   │   │   │   └── ResultModalContainer.jsx
+│   │   │   ├── MainPage
+│   │   │   │   ├── MainCameraContainer.jsx
+│   │   │   │   ├── MainPageContainer.jsx
+│   │   │   │   ├── ResultSockColorContainer.jsx
+│   │   │   │   └── SelectGenderContainer.jsx
+│   │   │   ├── StartPage
+│   │   │   │   └── LogoContainer.jsx
+│   │   │   └── common
+│   │   │       ├── StartRenderingContainer.jsx
+│   │   │       └── data.jsx
+│   │   └── presentation
+│   │       ├── CameraPage
+│   │       │   ├── Camera.jsx
+│   │       │   ├── CameraInformation1.jsx
+│   │       │   ├── CameraInformation2.jsx
+│   │       │   ├── ResultModal.jsx
+│   │       │   └── ServerModal.jsx
+│   │       ├── MainPage
+│   │       │   ├── Cody.jsx
+│   │       │   ├── MainCamera.jsx
+│   │       │   ├── ResultSockColor.jsx
+│   │       │   ├── SelectGender.jsx
+│   │       │   ├── ServerModal.jsx
+│   │       │   └── Skelethone.jsx
+│   │       ├── StartPage
+│   │       │   └── Logo.jsx
+│   │       └── common
+│   │           └── StartRendering.jsx
+│   ├── hooks
+│   │   └── useTextToSpeech.jsx
+│   ├── index.js
+│   ├── pages
+│   │   ├── CameraPage.jsx
+│   │   ├── MainPage.jsx
+│   │   ├── StartPage.jsx
+│   │   └── StoragePage.jsx
+│   └── styles
+│       └── components
+│           ├── CameraPage
+│           │   ├── Camera.scss
+│           │   ├── CameraInformation1.scss
+│           │   ├── CameraInformation2.scss
+│           │   ├── resultModal.scss
+│           │   └── serverModal.scss
+│           ├── MainPage
+│           │   ├── Cody.scss
+│           │   ├── MainserverModal.scss
+│           │   ├── ResultSockColor.scss
+│           │   ├── SelectGender.scss
+│           │   └── Skelethone.scss
+│           ├── StartPage
+│           │   └── Logo.scss
+│           ├── StoragePage
+│           │   └── StoragePage.scss
+│           └── common
+│               └── StartRendering.scss
+└── yarn.lock
 ```
 
 ### Backend_Spring
 ```bash
-
+└── src
+    ├── main
+    │   ├── generated
+    │   ├── java
+    │   │   └── com
+    │   │       └── smud
+    │   │           └── socksensespringproject
+    │   │               ├── SocksenseSpringProjectApplication.java
+    │   │               ├── config
+    │   │               │   └── SwaggerConfig.java
+    │   │               ├── controller
+    │   │               │   ├── PairController.java
+    │   │               │   ├── StylingController.java
+    │   │               │   └── TestController.java
+    │   │               ├── dto
+    │   │               │   ├── chatgpt
+    │   │               │   │   ├── ChatgptRequestDto.java
+    │   │               │   │   ├── ChatgptResponseDto.java
+    │   │               │   │   ├── Choice.java
+    │   │               │   │   ├── Message.java
+    │   │               │   │   └── Usage.java
+    │   │               │   ├── computervision
+    │   │               │   │   ├── OneImageRequestDto.java
+    │   │               │   │   ├── SimilarityResponseDto.java
+    │   │               │   │   ├── SockColorResponseDto.java
+    │   │               │   │   └── TwoImagesRequestDto.java
+    │   │               │   ├── pair
+    │   │               │   │   └── PairResponseDto.java
+    │   │               │   └── styling
+    │   │               │       ├── Styling.java
+    │   │               │       ├── StylingRequestDto.java
+    │   │               │       └── StylingResponseDto.java
+    │   │               ├── externalapi
+    │   │               │   ├── ChatCompletionClient.java
+    │   │               │   └── ComputerVisionClient.java
+    │   │               ├── response
+    │   │               │   ├── GlobalExceptionHandler.java
+    │   │               │   ├── ResponseCode.java
+    │   │               │   ├── ResponseData.java
+    │   │               │   ├── exeption
+    │   │               │   │   ├── GenderBadRequestException.java
+    │   │               │   │   ├── ImageCantReadException.java
+    │   │               │   │   └── ImagesBadRequestException.java
+    │   │               │   └── responseitem
+    │   │               │       ├── MessageItem.java
+    │   │               │       └── StatusItem.java
+    │   │               ├── service
+    │   │               │   ├── PairService.java
+    │   │               │   ├── StylingService.java
+    │   │               │   └── logic
+    │   │               │       ├── ChatCompletionServiceLogic.java
+    │   │               │       ├── ComputerVisionServiceLogic.java
+    │   │               │       ├── PairServiceLogic.java
+    │   │               │       └── StylingServiceLogic.java
+    │   │               └── util
+    │   │                   └── MultipartJackson2HttpMessageConverter.java
+    │   └── resources
+    │       ├── application-chatgpt.properties
+    │       ├── application.properties
+    │       ├── static
+    │       └── templates
+    └── test
+        └── java
+            └── com
+                └── smud
+                    └── socksensespringproject
+                        └── SocksenseSpringProjectApplicationTests.java
 ```
 
 ### Backend_Django (Image Processing)
 ```bash
-
+├── computervision
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-311.pyc
+│   │   ├── admin.cpython-311.pyc
+│   │   ├── apps.cpython-311.pyc
+│   │   ├── models.cpython-311.pyc
+│   │   ├── urls.cpython-311.pyc
+│   │   └── views.cpython-311.pyc
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-311.pyc
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── db.sqlite3
+├── manage.py
+└── socksense
+    ├── __init__.py
+    ├── __pycache__
+    │   ├── __init__.cpython-311.pyc
+    │   ├── settings.cpython-311.pyc
+    │   ├── urls.cpython-311.pyc
+    │   └── wsgi.cpython-311.pyc
+    ├── asgi.py
+    ├── settings.py
+    ├── urls.py
+    └── wsgi.py
 ```
 <br>
 
