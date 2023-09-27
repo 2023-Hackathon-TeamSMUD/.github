@@ -336,7 +336,7 @@
 
 ## 👨‍👩‍👧‍👧 Team
 
-|                                              [사현진](https://github.com/tkguswls1106)                                              |
-| :------------------------------------------------------------------------------------------------------------------------------: |
-| <img width = "300" src ="https://github.com/OnlineMemo/.github/assets/56509933/a13439f7-934d-41e1-be52-190e40753707"> |
-|                                                   Team Leader, Backend Developer                                                    |
+| [사현진](https://github.com/tkguswls1106) | [정연재](https://github.com/zzangjyj0818) | [유성민](https://github.com/ysmuei) | [김형섭](https://github.com/khs-alt) | [이정향](https://github.com/Hyanggggg) |
+| :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+| <img width = "300" src ="https://github.com/OnlineMemo/.github/assets/56509933/a13439f7-934d-41e1-be52-190e40753707"> | <img width = "300" src ="https://github.com/OnlineMemo/.github/assets/56509933/a13439f7-934d-41e1-be52-190e40753707"> | <img width = "300" src ="https://github.com/OnlineMemo/.github/assets/56509933/a13439f7-934d-41e1-be52-190e40753707"> | <img width = "300" src ="https://github.com/OnlineMemo/.github/assets/56509933/a13439f7-934d-41e1-be52-190e40753707"> | <img width = "300" src ="https://github.com/OnlineMemo/.github/assets/56509933/a13439f7-934d-41e1-be52-190e40753707"> |
+| Team Leader, Backend Developer | Frontend Developer | Frontend Developer | Image Processing Engineer | Designer |
