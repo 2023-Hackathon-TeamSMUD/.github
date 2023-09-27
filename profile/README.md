@@ -36,10 +36,10 @@
 
 ### Mobile Page
 
-**Login**|**SignUp**|**Change pw**|**Change pw**
+**Separation start**|**Shoot one sock**|**Shoot another sock**|**Separation complete**
 -----|-----|-----|-----
 <img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/3a5372f7-81f9-466f-9680-e9cc79f455f0" width="100%">|<img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/e126e279-c7b1-45dc-8a83-b32cd8977d90" width="100%">|<img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/45da9402-0feb-4d2e-99fb-a23fb10a3cd5" width="100%">|<img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/0cae28d7-8cbd-4358-8959-1afbb28614b2" width="100%">
-양말 짝 구분 메인 페이지 입니다.|단계별로 안내해줍니다.|다른 쪽 양말을 촬영합니다.|양말의 짝을 구분해줍니다.
+양말 짝 구분 메인 페이지 입니다.|단계별로 안내해주며, 한쪽 양말을 먼저 촬영합니다.|다른 쪽 양말을 촬영합니다.|양말의 짝을 구분해줍니다.
 
 **Memo list**|**New memo**|**View memo**|**Change pw**
 -----|-----|-----|-----
