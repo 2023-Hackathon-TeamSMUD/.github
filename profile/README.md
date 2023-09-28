@@ -44,7 +44,7 @@
 **Styling start**|**Shoot sock**|**Choose gender**|**Styling complete**
 -----|-----|-----|-----
 <img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/addca5b4-5735-483f-ab38-66ea720d0911" width="100%">|<img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/93f78b5f-b4ba-439b-afeb-35ed7b7a5f07" width="100%">|<img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/32a7fbe6-fa0a-4af7-ba92-de40dd5b32fd" width="100%">|<img src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/49692eb3-b7c3-4efd-9176-54f8e313b3c9" width="100%">
-양말 코디 메인 페이지 입니다.|양말 촬영 완료 후 페이지 입니다.|본인의 성별을 선택합니다.|양말과 성별에 어울리는 코디를 추천해줍니다.
+양말 코디 메인 페이지 입니다.|양말 촬영 완료 페이지 입니다.|본인의 성별을 선택합니다.|양말과 성별에 어울리는 코디를 추천해줍니다.
 
 **Coordination guide**|**Coordination list**|**Delete Coordination**|**None Coordination**
 -----|-----|-----|-----
