@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240" alt="온라인메모장 앱아이콘" src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/b806f750-80c3-4ce8-9271-87dde4148eb4">
+  <img width="240" alt="SockSense 앱아이콘" src="https://github.com/2023-Hackathon-TeamSMUD/.github/assets/56509933/b806f750-80c3-4ce8-9271-87dde4148eb4">
 </p>
 
 <p align="center">
