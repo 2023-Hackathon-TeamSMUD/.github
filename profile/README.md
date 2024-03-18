@@ -69,8 +69,8 @@
 ```
 - Frontend : React, React Query, JavaScript
 - Backend : Spring Boot, Java, Django, Python, ChatGPT, OpenCV
-- Frontend Deployment: AWS Amplify
-- Backend Deployment: AWS Elastic Beanstalk, Heroku
+- Frontend Deployment : AWS Amplify
+- Backend Deployment : AWS Elastic Beanstalk, Heroku
 - API Tool : Postman
 - API Documentation : Swagger
 - Version control : AWS S3, Github
