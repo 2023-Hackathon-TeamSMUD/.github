@@ -92,7 +92,10 @@
 
 ## 📂 Directory Structure
 
-### Frontend
+<details>
+  <summary>&nbsp;<strong>Frontend</strong>&nbsp;:&nbsp;&nbsp;Open!</summary>
+  <br>
+
 ```bash
 ├── package-lock.json
 ├── package.json
@@ -210,8 +213,12 @@
 │               └── StartRendering.scss
 └── yarn.lock
 ```
+</details>
 
-### Backend_Spring
+<details>
+  <summary>&nbsp;<strong>Backend_Spring (Business)</strong>&nbsp;:&nbsp;&nbsp;Open!</summary>
+  <br>
+
 ```bash
 └── src
     ├── main
@@ -281,24 +288,16 @@
                     └── socksensespringproject
                         └── SocksenseSpringProjectApplicationTests.java
 ```
+</details>
 
-### Backend_Django (Image Processing)
+<details>
+  <summary>&nbsp;<strong>Backend_Django (Image Processing)</strong>&nbsp;:&nbsp;&nbsp;Open!</summary>
+  <br>
+
 ```bash
 ├── computervision
-│   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-311.pyc
-│   │   ├── admin.cpython-311.pyc
-│   │   ├── apps.cpython-311.pyc
-│   │   ├── models.cpython-311.pyc
-│   │   ├── urls.cpython-311.pyc
-│   │   └── views.cpython-311.pyc
 │   ├── admin.py
 │   ├── apps.py
-│   ├── migrations
-│   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       └── __init__.cpython-311.pyc
 │   ├── models.py
 │   ├── tests.py
 │   ├── urls.py
@@ -306,17 +305,12 @@
 ├── db.sqlite3
 ├── manage.py
 └── socksense
-    ├── __init__.py
-    ├── __pycache__
-    │   ├── __init__.cpython-311.pyc
-    │   ├── settings.cpython-311.pyc
-    │   ├── urls.cpython-311.pyc
-    │   └── wsgi.cpython-311.pyc
     ├── asgi.py
     ├── settings.py
     ├── urls.py
     └── wsgi.py
 ```
+</details>
 <br>
 
 
