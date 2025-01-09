@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    - SockSense 🧦 -
+    - Sock Sense 🧦 -
     <br>
     시각장애인을 위한 양말 판별 및
     <br>
