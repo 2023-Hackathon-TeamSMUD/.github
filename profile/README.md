@@ -96,7 +96,7 @@
   <summary>&nbsp;<strong>Frontend</strong>&nbsp;:&nbsp;&nbsp;Open!</summary>
   <br>
 
-```bash
+```
 ├── package-lock.json
 ├── package.json
 ├── public
@@ -219,7 +219,7 @@
   <summary>&nbsp;<strong>Backend_Spring (Business)</strong>&nbsp;:&nbsp;&nbsp;Open!</summary>
   <br>
 
-```bash
+```
 └── src
     ├── main
     │   ├── generated
@@ -294,7 +294,7 @@
   <summary>&nbsp;<strong>Backend_Django (Image Processing)</strong>&nbsp;:&nbsp;&nbsp;Open!</summary>
   <br>
 
-```bash
+```
 ├── computervision
 │   ├── admin.py
 │   ├── apps.py
